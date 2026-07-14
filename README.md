@@ -45,6 +45,12 @@ Full Stack Developer passionate about building scalable web applications and con
   </a>
 </p>
 
+<p align="left">
+  <a href="https://linkedin.com/in/irvandmw"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=discord" height="45" /></a>
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=gmail" height="22" align="center" alt="Email" href="mailto:irvandmw@gmail.com"/> : 
   <a href="mailto:irvandmw@gmail.com">
