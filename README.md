@@ -6,7 +6,7 @@ Full Stack Developer passionate about building scalable web applications and con
 
 ## About Me
 
-- Computer Science Graduate
+- Informatics Engineering Graduate from Institut Teknologi Harapan Bangsa
 - Full Stack Developer
 - Interested in Backend Engineering, System Design, and Web Development
 - Currently building projects with Go, React, Next.js, TypeScript, and Dart
@@ -45,4 +45,9 @@ Full Stack Developer passionate about building scalable web applications and con
   </a>
 </p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:irvandmw@gmail.com) : irvandmw@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=gmail" height="22" align="center" alt="Email" href="mailto:irvandmw@gmail.com"/> : 
+  <a href="mailto:irvandmw@gmail.com">
+    irvandmw@gmail.com
+  </a>
+</p>
