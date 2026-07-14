@@ -6,7 +6,7 @@ Full Stack Developer passionate about building scalable web applications and con
 
 ## About Me
 
-- Informatics Engineering Graduate from Institut Teknologi Harapan Bangsa
+- Informatics Engineering Graduate from <a href="https://www.ithb.ac.id/">Institut Teknologi Harapan Bangsa</a>
 - Full Stack Developer
 - Interested in Backend Engineering, System Design, and Web Development
 - Currently building projects with Go, React, Next.js, TypeScript, and Dart
