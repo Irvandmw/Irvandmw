@@ -1,4 +1,4 @@
-# Hi, I'm Irvan
+# Hi, I'm Irvan 🙋‍♂️
 
 Full Stack Developer passionate about building scalable web applications and continuously learning software engineering.
 
@@ -21,34 +21,11 @@ Full Stack Developer passionate about building scalable web applications and con
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Irvandmw&show_icons=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvandmw&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## Contact
-<p align="left">
-  <a href="https://linkedin.com/in/irvandmw">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-
-  <a href="https://github.com/username">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-
-  <a href="mailto:irvandmw@gmail.com">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/irvandmw"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=discord" height="45" /></a>
+  <a href="https://github.com/Irvandmw"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
 </p>
 
 <p>
